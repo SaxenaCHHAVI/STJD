@@ -1,0 +1,4 @@
+Everything can be resell whether it’s vehicle or normal household items then why not notes, roadmaps , project ideas, referrals and guidance of experts?
+We are building a website which is a connecting platform between seniors and juniors in ABES Engineering College where they can share their notes , roadmaps , information about hackathons , tech techniques and new technologies or tricks, project ideas , placement referrals and guidance and much more fun activities in which some will be paid also to help seniors to get profit of their knowledge. The proposed platform aims to bridge the gap between seniors and juniors by creating a centralized website.
+The main objectives of this website are Knowledge Preservation , Improved Academic & Career Preparation , Community Building , Skill Growth for Contributors , Centralized Resource Hub , etc.
+
